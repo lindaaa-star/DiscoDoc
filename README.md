@@ -1,13 +1,13 @@
 # PhD Advisor Finder
 
-这是一个基于 Python 和 Tkinter 的博士导师筛选器，用户可以根据 **专业**、**大学**、**国家** 和 **研究方向** 筛选适合的博士导师。
+Below is a Python script using Tkinter to create a PhD supervisor filter application. Users can filter supervisors based on their field of study, university, country, and research interests. The application includes a simple GUI with dropdown menus, a text entry for research interests, and a button to display filtered results.
 
 ## 🧠 功能简介
 
-- 从 CSV 数据文件中加载导师信息
-- 支持按字段筛选（专业 / 大学 / 国家 / 研究方向）
-- 图形化用户界面，操作简单直观
-- 自动更新筛选结果，支持模糊匹配
+- Load supervisor information from a CSV data file
+- Support filtering by fields (field of study / university / country / research interests)
+- Graphical user interface, simple and intuitive to operate
+- Automatically update filtering results, support fuzzy matching
 
 ## 📦 技术栈
 
